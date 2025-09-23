@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geochemistry"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Oceanography"
+    ]
+  ],
+  "legacy_uid": "3cbc544f-01db-8645-dfe0-4eb020e1b0f0",
+  "instructors": {
+    "content": [
+      "7dfff6e6-9892-d71b-2ff9-a1e87dd10244",
+      "bc30ba4e-04ec-4f4e-84c7-6f10f44fbea7",
+      "220b95c8-32b6-fcbe-5d21-8a6804844bc6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3c23b60c-8dea-592b-91dd-aec506e71111",
+    "website": "12-744-marine-isotope-chemistry-fall-2012"
+  },
+  "course_title": "Marine Isotope Chemistry",
+  "course_description": "The objective of this course is to develop an understanding of principles of marine isotope geochemistry, its systematics, and its application to the study of the behavior and history of the oceans within the earth system. The emphasis is on developing the underlying concepts and theory as well as proficiency in working with practical isotope systems. The course is divided into four sections: nuclear systematics, Earth formation and evolution, stable isotopes, and applications to the ocean system.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.744",
+  "course_image_thumbnail": {
+    "content": "7d899b66-c066-f7d5-a56c-28eaddfcdfa1",
+    "website": "12-744-marine-isotope-chemistry-fall-2012"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "29b19475-dffe-4ae2-aefc-7d3b4764cb87",
+  "site_short_id": "12.744-fall-2012",
+  "site_url_path": "courses/12-744-marine-isotope-chemistry-fall-2012",
+  "title": "Course Metadata"
+}

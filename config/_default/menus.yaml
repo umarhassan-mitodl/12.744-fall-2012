@@ -1,0 +1,29 @@
+leftnav:
+- identifier: e3879d83-e795-cd91-12c6-7ea000697388
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: f907cd2c-4af6-ac83-5916-62c5ec582209
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 85a12cf4-f64a-455c-2b01-7c075a192b99
+  name: Nuclear Systematics
+  pageRef: /pages/nuclear-systematics
+  weight: 30
+- identifier: 2f0ea6fe-4c9f-4eb5-2640-da048d86ec48
+  name: Earth Formation and Evolution
+  pageRef: /pages/earth-formation-and-evolution
+  weight: 40
+- identifier: 19d700d8-44ae-158d-184d-0e7754b12045
+  name: Stable Isotopes
+  pageRef: /pages/stable-isotopes
+  weight: 50
+- identifier: f7d80171-a289-433c-9f9a-1ce2d5e31835
+  name: Ocean Applications
+  pageRef: /pages/ocean-applications
+  weight: 60
+- identifier: 9849d04f-e28c-79da-c42b-53e91c92073c
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 70
