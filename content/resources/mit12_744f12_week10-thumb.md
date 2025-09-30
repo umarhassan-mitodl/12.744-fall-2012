@@ -6,6 +6,8 @@ description: Teaching Assistant Kyrstin Fornace uses cartoons to illustrate conc
 file: /courses/12-744-marine-isotope-chemistry-fall-2012/5ba9b65ee0b7acca43a0494bdceecdec_MIT12_744F12_Week10-thumb.jpg
 file_size: 8410
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Teaching Assistant Kyrstin Fornace uses cartoons to illustrate concepts
     of isotope geochemistry during recitations for 12.744 Marine Isotope Chemistry.
