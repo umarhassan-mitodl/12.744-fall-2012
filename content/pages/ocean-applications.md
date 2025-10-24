@@ -3,8 +3,6 @@ content_type: page
 description: This section provides lecture summaries, lecture notes, and a problem
   set for the 18th through 26th lectures of the course. This section focuses on ocean
   applications for the theory and techniques discussed so far in the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Ocean Applications

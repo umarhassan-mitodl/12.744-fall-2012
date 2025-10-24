@@ -4,8 +4,6 @@ description: This section provides lecture summaries, readings, and related link
   for the first six lectures of the course. This section of the course is intended
   to give the student a firm understanding of the underlying principles that determine
   the abundance, stability, and nature of the isotopes.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Nuclear Systematics

@@ -4,8 +4,6 @@ description: This is a problem set related to nuclear systematics.
 file: /courses/12-744-marine-isotope-chemistry-fall-2012/f7a7709593bcea1fab59fa966d65218f_MIT12_744F12_Prob_Set1.pdf
 file_size: 158716
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

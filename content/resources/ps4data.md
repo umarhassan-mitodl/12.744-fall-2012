@@ -4,8 +4,6 @@ description: This spreadsheet contains data for Problem Set 4.
 file: /courses/12-744-marine-isotope-chemistry-fall-2012/82b82f12cbc0eb6a936598a6881120bf_PS4Data.xlsx
 file_size: 13284
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

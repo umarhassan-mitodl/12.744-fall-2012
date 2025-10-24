@@ -3,8 +3,6 @@ content_type: page
 description: This section provides lecture summaries, lecture notes, and readings
   for the 13th through 17th lectures of the course. This section of the course introduces
   stable isotopes and isotope fractionation.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Stable Isotopes

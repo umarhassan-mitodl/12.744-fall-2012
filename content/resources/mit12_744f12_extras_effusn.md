@@ -4,8 +4,6 @@ description: 'This resource contains information regarding extras: effusion.'
 file: /courses/12-744-marine-isotope-chemistry-fall-2012/8b827246e33332e4b6b90c54c09000ba_MIT12_744F12_Extras_effusn.pdf
 file_size: 69731
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -5,8 +5,6 @@ description: 'This resource contains information regarding extras: normal kineti
 file: /courses/12-744-marine-isotope-chemistry-fall-2012/e16d5d159d345163429ef69fc24715db_MIT12_744F12_Extras_norm.pdf
 file_size: 48458
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

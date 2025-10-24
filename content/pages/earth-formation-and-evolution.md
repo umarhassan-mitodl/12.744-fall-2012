@@ -4,8 +4,6 @@ description: 'This section provides lecture summaries, lecture notes, and relate
   links for the 7th through 12th lectures of the course. This section of the course
   introduces what isotope systematics tell us about how our solar system and the earth
   are formed, and about the timing and nature of the processes involved. '
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Earth Formation and Evolution
