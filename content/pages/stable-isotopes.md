@@ -11,7 +11,7 @@ uid: 19d700d8-44ae-158d-184d-0e7754b12045
 
 So far the emphasis has been on the radioactive isotopes and what they tell us about the timing and nature of processes. We now embark on the topic of stable isotopes and isotope fractionation. We will first learn about how stable (and sometimes unstable) isotope ratios are measured by mass spectrometry. This is important because the isotope geochemist needs to understand the nature of the measurements in order to realize the character and limitations of the data. We then explore the principles, systematics, and mathematics of isotope fractionation.
 
-[Readings](#readings) are listed below the table. Lecture notes are provided by [WHOI](http://www.whoi.edu/) and link away from OCW.
+[Readings](#readings) are listed below the table. Lecture notes are provided by {{% resource_link "5b034dc5-c991-424c-b894-040e2d999509" "WHOI" %}} and link away from OCW.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -45,9 +45,9 @@ Since you need to understand the limits and character of your data in order to u
 {{< tdopen >}}
 
 
-[Lecture 13 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=135444&pt=2&p=146969)
+{{% resource_link "0291455d-67f9-4695-8c53-1645bd4d0390" "Lecture 13 Notes (PDF)" %}}
 
-[Lecture 14 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=135884&pt=2&p=146969)
+{{% resource_link "7623a407-8176-4e7a-be9c-73394df6bd0e" "Lecture 14 Notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -66,9 +66,9 @@ Here we learn about the underlying physical principles about isotope fractionati
 {{< tdopen >}}
 
 
-[Lecture 15 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=136144&pt=2&p=146969)
+{{% resource_link "285089ad-e4b6-4ec7-b88b-4096c969936d" "Lecture 15 Notes (PDF)" %}}
 
-[Lecture 16 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=137304&pt=2&p=146969)
+{{% resource_link "6f495f3f-0616-4021-b1bf-2b09dcb17fd7" "Lecture 16 Notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -102,4 +102,4 @@ A nice introduction written by John Hayes on isotopic calculations. Courtesy of 
 {{% resource_link d5a52a15-9b26-92ac-0b04-f2a6976af228 "Stable Isotopes Review (PDF)" %}}  
 A recent review article from Biogeosciences on using stable isotopes to trace plant carbon and water relations across scales.
 
-Werner, Christiane, H. Schnyder, et al. "[Progress and Challenges in Using Stable Isotopes to Trace Plant Carbon and Water Relations Across Scales](http://dx.doi.org/10.5194/bg-9-3083-2012)." _Biogeosciences_ 9 (2012): 3083–111. This work is distributed under the [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/us/).
+Werner, Christiane, H. Schnyder, et al. "{{% resource_link "a5d369d9-ac8f-47e8-b9c2-e3b16a6f57a6" "Progress and Challenges in Using Stable Isotopes to Trace Plant Carbon and Water Relations Across Scales" %}}." _Biogeosciences_ 9 (2012): 3083–111. This work is distributed under the {{% resource_link "c2a4b879-a993-4aee-a986-d8f0a925752a" "Creative Commons Attribution 3.0 License" %}}.
